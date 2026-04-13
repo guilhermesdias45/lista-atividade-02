@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="" />
+    <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Atividade25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade22.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +26,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "guilhermesdias45"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/guilhermesdias45/lista-atividade-02.git",
+    "accountId": "2974c0e1-fbd3-4dfc-bfb1-ccc2554e3aad"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3CIuC2j6c51RY045JeVBQGigOtx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +58,13 @@
     "Application.Atividade12.executor": "Run",
     "Application.Atividade13.executor": "Run",
     "Application.Atividade19.executor": "Run",
+    "Application.Atividade22.executor": "Run",
+    "Application.Atividade25.executor": "Run",
+    "Application.Atividade28.executor": "Run",
+    "Application.Atividade31.executor": "Run",
+    "Application.Atividade34.executor": "Run",
+    "Application.Atividade37.executor": "Run",
+    "Application.Atividade40.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -45,37 +76,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Atividade19">
-    <configuration name="Atividade07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade07" />
+  <component name="RunManager" selected="Application.Atividade40">
+    <configuration name="Atividade28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade28" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade10" />
+    <configuration name="Atividade31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade31" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade12" />
+    <configuration name="Atividade34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade34" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade13" />
+    <configuration name="Atividade37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade37" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade19" />
+    <configuration name="Atividade40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade40" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Atividade19" />
-        <item itemvalue="Application.Atividade13" />
-        <item itemvalue="Application.Atividade12" />
-        <item itemvalue="Application.Atividade10" />
-        <item itemvalue="Application.Atividade07" />
+        <item itemvalue="Application.Atividade40" />
+        <item itemvalue="Application.Atividade37" />
+        <item itemvalue="Application.Atividade34" />
+        <item itemvalue="Application.Atividade31" />
+        <item itemvalue="Application.Atividade28" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776085275593</updated>
-      <workItem from="1776085276908" duration="4214000" />
+      <workItem from="1776085276908" duration="8280000" />
     </task>
     <servers />
   </component>

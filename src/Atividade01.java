@@ -8,6 +8,6 @@ public class Atividade01 {
         int anoNascimento = scan.nextInt();
         int dataAtual = LocalDate.now().getYear();
 
-        System.out.println(String.format("Você possui %d anos!", dataAtual-anoNascimento));
+        System.out.printf("Você possui %d anos!%n", dataAtual-anoNascimento);
     }
 }

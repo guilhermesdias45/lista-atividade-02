@@ -8,7 +8,7 @@ public class Atividade13 {
         double somaNotas = 0;
         int qtdNotas = 3;
         for (int i = 0; i < qtdNotas; i++){
-            System.out.println(String.format("Nota %d:", i+1));
+            System.out.printf("Nota %d:%n", i+1);
             somaNotas += scan.nextDouble();
         }
         double media = somaNotas/qtdNotas;
