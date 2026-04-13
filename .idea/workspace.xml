@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Atividade03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +50,11 @@
     "Application.Atividade04.executor": "Run",
     "Application.Atividade06.executor": "Run",
     "Application.Atividade07.executor": "Run",
+    "Application.Atividade09.executor": "Run",
     "Application.Atividade10.executor": "Run",
     "Application.Atividade12.executor": "Run",
     "Application.Atividade13.executor": "Run",
+    "Application.Atividade15.executor": "Run",
     "Application.Atividade19.executor": "Run",
     "Application.Atividade22.executor": "Run",
     "Application.Atividade25.executor": "Run",
@@ -66,6 +66,7 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -76,7 +77,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Atividade09">
+  <component name="RunManager" selected="Application.Atividade15">
     <configuration name="Atividade03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividade03" />
       <module name="lista-atividade-02" />
@@ -98,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade37" />
+    <configuration name="Atividade15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade15" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atividade15" />
         <item itemvalue="Application.Atividade09" />
         <item itemvalue="Application.Atividade06" />
         <item itemvalue="Application.Atividade03" />
         <item itemvalue="Application.Atividade40" />
-        <item itemvalue="Application.Atividade37" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776085275593</updated>
       <workItem from="1776085276908" duration="8280000" />
-      <workItem from="1776102568072" duration="2005000" />
+      <workItem from="1776102568072" duration="3247000" />
     </task>
     <servers />
   </component>
