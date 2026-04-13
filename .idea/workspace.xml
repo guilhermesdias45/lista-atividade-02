@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="Realizado as atividades 22, 25, 28, 31, 34, 37 e 40, além de eliminar as redundâncias do String.format()">
-      <change afterPath="$PROJECT_DIR$/src/Atividade43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade58.java" afterDir="false" />
+    <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Atividade25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +65,6 @@
     "Application.Atividade34.executor": "Run",
     "Application.Atividade37.executor": "Run",
     "Application.Atividade40.executor": "Run",
-    "Application.Atividade43.executor": "Run",
-    "Application.Atividade49.executor": "Run",
-    "Application.Atividade52.executor": "Run",
-    "Application.Atividade58.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +76,35 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Atividade58">
+  <component name="RunManager" selected="Application.Atividade40">
+    <configuration name="Atividade28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade28" />
+      <module name="lista-atividade-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade31" />
+      <module name="lista-atividade-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade34" />
+      <module name="lista-atividade-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade37" />
+      <module name="lista-atividade-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Atividade40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividade40" />
       <module name="lista-atividade-02" />
@@ -86,41 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade43" />
-      <module name="lista-atividade-02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Atividade49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade49" />
-      <module name="lista-atividade-02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Atividade52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade52" />
-      <module name="lista-atividade-02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Atividade58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade58" />
-      <module name="lista-atividade-02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Atividade58" />
-        <item itemvalue="Application.Atividade52" />
-        <item itemvalue="Application.Atividade49" />
-        <item itemvalue="Application.Atividade43" />
         <item itemvalue="Application.Atividade40" />
+        <item itemvalue="Application.Atividade37" />
+        <item itemvalue="Application.Atividade34" />
+        <item itemvalue="Application.Atividade31" />
+        <item itemvalue="Application.Atividade28" />
       </list>
     </recent_temporary>
   </component>
@@ -131,24 +129,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776085275593</updated>
-      <workItem from="1776085276908" duration="12989000" />
+      <workItem from="1776085276908" duration="8280000" />
     </task>
-    <task id="LOCAL-00001" summary="Realizado as atividades 22, 25, 28, 31, 34, 37 e 40, além de eliminar as redundâncias do String.format()">
-      <option name="closed" value="true" />
-      <created>1776100576172</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1776100576172</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Realizado as atividades 22, 25, 28, 31, 34, 37 e 40, além de eliminar as redundâncias do String.format()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realizado as atividades 22, 25, 28, 31, 34, 37 e 40, além de eliminar as redundâncias do String.format()" />
   </component>
 </project>
