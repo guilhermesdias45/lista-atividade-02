@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Atividade25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atividade22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "guilhermesdias45"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guilhermesdias45&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/guilhermesdias45/lista-atividade-02.git",
-    "accountId": "2974c0e1-fbd3-4dfc-bfb1-ccc2554e3aad"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guilhermesdias45/lista-atividade-02.git&quot;,
+    &quot;accountId&quot;: &quot;2974c0e1-fbd3-4dfc-bfb1-ccc2554e3aad&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3CIuC2j6c51RY045JeVBQGigOtx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,7 +48,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Atividade03.executor": "Run",
     "Application.Atividade04.executor": "Run",
+    "Application.Atividade06.executor": "Run",
     "Application.Atividade07.executor": "Run",
     "Application.Atividade10.executor": "Run",
     "Application.Atividade12.executor": "Run",
@@ -68,31 +66,33 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/guilherme.dias/IdeaProjects/lista-atividade-02/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Atividade40">
-    <configuration name="Atividade28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade28" />
+  <component name="RunManager" selected="Application.Atividade09">
+    <configuration name="Atividade03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade03" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade31" />
+    <configuration name="Atividade06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade06" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade34" />
+    <configuration name="Atividade09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade09" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atividade09" />
+        <item itemvalue="Application.Atividade06" />
+        <item itemvalue="Application.Atividade03" />
         <item itemvalue="Application.Atividade40" />
         <item itemvalue="Application.Atividade37" />
-        <item itemvalue="Application.Atividade34" />
-        <item itemvalue="Application.Atividade31" />
-        <item itemvalue="Application.Atividade28" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776085275593</updated>
       <workItem from="1776085276908" duration="8280000" />
+      <workItem from="1776102568072" duration="2005000" />
     </task>
     <servers />
   </component>
