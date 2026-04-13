@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="" />
+    <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Atividade02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,35 +30,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3CIuC2j6c51RY045JeVBQGigOtx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Atividade02.executor": "Run",
     "Application.Atividade04.executor": "Run",
+    "Application.Atividade05.executor": "Run",
     "Application.Atividade07.executor": "Run",
+    "Application.Atividade08.executor": "Run",
     "Application.Atividade10.executor": "Run",
+    "Application.Atividade11.executor": "Run",
     "Application.Atividade12.executor": "Run",
     "Application.Atividade13.executor": "Run",
+    "Application.Atividade14.executor": "Run",
     "Application.Atividade19.executor": "Run",
+    "Application.Atividade20.executor": "Run",
+    "Application.Atividade21.executor": "Run",
+    "Application.Atividade23.executor": "Run",
+    "Application.Atividade26.executor": "Run",
+    "Application.Atividade29.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pedro.giraldi/IdeaProjects/lista-atividade-02",
     "onboarding.tips.debug.path": "C:/Users/guilherme.dias/IdeaProjects/lista-atividade-02/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Atividade19">
+  <component name="RunManager">
     <configuration name="Atividade07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividade07" />
       <module name="lista-atividade-02" />
@@ -99,6 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776085275593</updated>
       <workItem from="1776085276908" duration="4214000" />
+      <workItem from="1776099416561" duration="7134000" />
     </task>
     <servers />
   </component>
