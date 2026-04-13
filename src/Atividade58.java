@@ -21,6 +21,5 @@ public class Atividade58 {
         data = data.plusDays(diasInformado);
 
         System.out.println("Nova data: " + data.format(formatter));
-//        t
     }
 }
