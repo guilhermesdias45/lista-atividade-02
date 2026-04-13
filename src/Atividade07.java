@@ -6,6 +6,6 @@ public class Atividade07 {
         System.out.println("Informe quanto o cliente gastou no restaurante:");
         double valorGasto = scan.nextDouble();
 
-        System.out.println(String.format("A comissão do garçom será de R$%.2f.", valorGasto * 0.1));
+        System.out.printf("A comissão do garçom será de R$%.2f.%n", valorGasto * 0.1);
     }
 }

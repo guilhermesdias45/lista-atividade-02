@@ -8,7 +8,7 @@ public class Atividade04 {
         double somaNotas = 0;
         int qtdNotas = 4;
         for (int i = 0; i < qtdNotas; i++){
-            System.out.println(String.format("Nota %d:", i+1));
+            System.out.printf("Nota %d:%n", i+1);
             somaNotas += scan.nextDouble();
         }
 

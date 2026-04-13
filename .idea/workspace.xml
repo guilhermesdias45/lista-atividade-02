@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b67a779-ba3d-48f7-a904-2b9f4fdd2afe" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/Atividade02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Atividade05.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Atividade08.java" afterDir="false" />
@@ -14,6 +15,20 @@
       <change afterPath="$PROJECT_DIR$/src/Atividade29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/Atividade15.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Atividade25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade40.java" afterDir="false" />
+>>>>>>> b1cb8cfb48c5c86e49b050ff797331cb1eefe69d
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade22.java" afterDir="false" />
+>>>>>>> a3617dc7519019e43fa4b7ae1287d8eb641de999
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +45,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
 }</component>
+=======
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "guilhermesdias45"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/guilhermesdias45/lista-atividade-02.git",
+    "accountId": "2974c0e1-fbd3-4dfc-bfb1-ccc2554e3aad"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+>>>>>>> a3617dc7519019e43fa4b7ae1287d8eb641de999
   <component name="ProjectId" id="3CIuC2j6c51RY045JeVBQGigOtx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,11 +82,16 @@
     "Application.Atividade04.executor": "Run",
     "Application.Atividade05.executor": "Run",
     "Application.Atividade07.executor": "Run",
+<<<<<<< HEAD
     "Application.Atividade08.executor": "Run",
+=======
+    "Application.Atividade09.executor": "Run",
+>>>>>>> a3617dc7519019e43fa4b7ae1287d8eb641de999
     "Application.Atividade10.executor": "Run",
     "Application.Atividade11.executor": "Run",
     "Application.Atividade12.executor": "Run",
     "Application.Atividade13.executor": "Run",
+<<<<<<< HEAD
     "Application.Atividade14.executor": "Run",
     "Application.Atividade19.executor": "Run",
     "Application.Atividade20.executor": "Run",
@@ -65,6 +104,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+=======
+    "Application.Atividade15.executor": "Run",
+    "Application.Atividade19.executor": "Run",
+    "Application.Atividade22.executor": "Run",
+    "Application.Atividade25.executor": "Run",
+    "Application.Atividade28.executor": "Run",
+    "Application.Atividade31.executor": "Run",
+    "Application.Atividade34.executor": "Run",
+    "Application.Atividade37.executor": "Run",
+    "Application.Atividade40.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+=======
+>>>>>>> b1cb8cfb48c5c86e49b050ff797331cb1eefe69d
+>>>>>>> a3617dc7519019e43fa4b7ae1287d8eb641de999
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
@@ -75,37 +133,49 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Atividade07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividade07" />
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Atividade15">
+    <configuration name="Atividade03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade03" />
+=======
+  <component name="RunManager" selected="Application.Atividade40">
+    <configuration name="Atividade28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade28" />
+>>>>>>> b1cb8cfb48c5c86e49b050ff797331cb1eefe69d
+>>>>>>> a3617dc7519019e43fa4b7ae1287d8eb641de999
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade10" />
+    <configuration name="Atividade31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade31" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade12" />
+    <configuration name="Atividade34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade34" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade13" />
+    <configuration name="Atividade15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade15" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade19" />
+    <configuration name="Atividade40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade40" />
       <module name="lista-atividade-02" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +183,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Atividade19" />
-        <item itemvalue="Application.Atividade13" />
-        <item itemvalue="Application.Atividade12" />
-        <item itemvalue="Application.Atividade10" />
-        <item itemvalue="Application.Atividade07" />
+<<<<<<< HEAD
+        <item itemvalue="Application.Atividade15" />
+        <item itemvalue="Application.Atividade09" />
+        <item itemvalue="Application.Atividade06" />
+        <item itemvalue="Application.Atividade03" />
+        <item itemvalue="Application.Atividade40" />
+=======
+        <item itemvalue="Application.Atividade40" />
+        <item itemvalue="Application.Atividade37" />
+        <item itemvalue="Application.Atividade34" />
+        <item itemvalue="Application.Atividade31" />
+        <item itemvalue="Application.Atividade28" />
+>>>>>>> b1cb8cfb48c5c86e49b050ff797331cb1eefe69d
       </list>
     </recent_temporary>
   </component>
@@ -128,8 +206,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776085275593</updated>
+<<<<<<< HEAD
       <workItem from="1776085276908" duration="4214000" />
       <workItem from="1776099416561" duration="7134000" />
+=======
+      <workItem from="1776085276908" duration="8280000" />
+<<<<<<< HEAD
+      <workItem from="1776102568072" duration="3247000" />
+=======
+>>>>>>> b1cb8cfb48c5c86e49b050ff797331cb1eefe69d
+>>>>>>> a3617dc7519019e43fa4b7ae1287d8eb641de999
     </task>
     <servers />
   </component>
