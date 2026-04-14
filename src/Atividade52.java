@@ -15,6 +15,6 @@ public class Atividade52 {
 
         System.out.println("A quantia de grãos de arroz que devem ser entregues para o súdito é: " + somaTotal);
 
-//        ATIVIDADE INCOMPLETA, NECESSÁRIO TIRAR DÚVIDAS
+        System.out.println("A quantia de sacos de arroz é: " + somaTotal.divide(BigInteger.valueOf(64)));
     }
 }
