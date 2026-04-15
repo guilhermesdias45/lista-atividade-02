@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class Atividade15 {
+public class Atividade16 {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         int dia = 0;
         int mes = 0;
@@ -18,36 +19,45 @@ public class Atividade15 {
 
             switch (mes){
                 case 1: nomeMes = "Janeiro";
-                break;
+                    break;
                 case 2: nomeMes = "Fevereiro"; limiteDias = 29;
-                break;
+                    break;
                 case 3: nomeMes = "Março";
-                break;
+                    break;
                 case 4: nomeMes = "Abril"; limiteDias = 30;
-                break;
+                    break;
                 case 5: nomeMes = "Maio";
-                break;
+                    break;
                 case 6: nomeMes = "Julho"; limiteDias = 30;
-                break;
+                    break;
                 case 7: nomeMes = "Julho";
-                break;
+                    break;
                 case 8: nomeMes = "Agosto";
-                break;
+                    break;
                 case 9: nomeMes = "Setembro"; limiteDias = 30;
-                break;
+                    break;
                 case 10: nomeMes = "Outubro";
-                break;
+                    break;
                 case 11: nomeMes = "Novembro"; limiteDias = 30;
-                break;
+                    break;
                 case 12: nomeMes = "Dezembro";
-                break;
+                    break;
                 default: nomeMes = "Inválido";
-                break;
+                    break;
             }
 
             if(mes >= 1 && mes <= 12 && dia >= 1 && dia <= limiteDias){
                 System.out.println("\nResultado: A data informada está OK!");
-                System.out.println("Você nasceu dia: " + dia + " do mês: " + nomeMes);
+                if(mes <= 3){
+                    System.out.println("Você nasceu dia: " + dia + " do mês de: " + nomeMes + " no 1° Trimestre");
+                }else if(mes <= 6){
+                    System.out.println("Você nasceu dia: " + dia + " do mês de: " + nomeMes + " no 2° Trimestre");
+                }else if(mes <= 9){
+                    System.out.println("Você nasceu dia: " + dia + " do mês de: " + nomeMes + " no 3° Trimestre");
+                }else{
+                    System.out.println("Você nasceu dia: " + dia + " do mês de: " + nomeMes + " no 4° Trimestre");
+                }
+
                 dataValida = true;
             }else{
                 System.out.println("Dia ou mês inválidos, digite novamente!");
